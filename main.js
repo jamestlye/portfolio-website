@@ -6,7 +6,7 @@ import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
 import Typed from 'typed.js';
 var typed = new Typed('.typing', {
-  strings: ["Mechatronics Engineer","Software Developer","One Piece Enjoyer", "CAD Designer","Hardware Developer"],
+  strings: ["Mechatronics Engineer","Front End Developer","One Piece Enjoyer","Software Developer","CAD Designer","Hardware Developer"],
   typeSpeed: 65,
   backSpeed: 50,
   loop: true
